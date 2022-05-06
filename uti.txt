@@ -1,1 +1,1 @@
-This is utility function of my first reposatory.
+This is utility function of my second reposatory.
